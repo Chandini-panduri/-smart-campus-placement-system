@@ -1,0 +1,100 @@
+1,Infosys,Data Analyst,Python,6.0,4.0
+2,Wipro,Web Developer,C++,6.0,4.5
+3,Accenture,Backend Developer,SQL,6.0,5.0
+4,TechMahindra,Tester,Web,6.0,5.5
+5,HCL,Software Developer,Java,6.0,6.0
+6,Cognizant,Data Analyst,Python,6.0,6.5
+7,IBM,Web Developer,C++,6.0,7.0
+8,Capgemini,Backend Developer,SQL,6.0,7.5
+9,Deloitte,Tester,Web,6.0,8.0
+10,TCS,Software Developer,Java,6.0,3.5
+11,Infosys,Data Analyst,Python,6.0,4.0
+12,Wipro,Web Developer,C++,6.0,4.5
+13,Accenture,Backend Developer,SQL,6.0,5.0
+14,TechMahindra,Tester,Web,6.0,5.5
+15,HCL,Software Developer,Java,6.0,6.0
+16,Cognizant,Data Analyst,Python,6.0,6.5
+17,IBM,Web Developer,C++,6.0,7.0
+18,Capgemini,Backend Developer,SQL,6.0,7.5
+19,Deloitte,Tester,Web,6.0,8.0
+20,TCS,Software Developer,Java,6.0,3.5
+21,Infosys,Data Analyst,Python,6.0,4.0
+22,Wipro,Web Developer,C++,6.0,4.5
+23,Accenture,Backend Developer,SQL,6.0,5.0
+24,TechMahindra,Tester,Web,6.0,5.5
+25,HCL,Software Developer,Java,6.0,6.0
+26,Cognizant,Data Analyst,Python,6.0,6.5
+27,IBM,Web Developer,C++,6.0,7.0
+28,Capgemini,Backend Developer,SQL,6.0,7.5
+29,Deloitte,Tester,Web,6.0,8.0
+30,TCS,Software Developer,Java,6.0,3.5
+31,Infosys,Data Analyst,Python,6.0,4.0
+32,Wipro,Web Developer,C++,6.0,4.5
+33,Accenture,Backend Developer,SQL,6.0,5.0
+34,TechMahindra,Tester,Web,6.0,5.5
+35,HCL,Software Developer,Java,6.0,6.0
+36,Cognizant,Data Analyst,Python,6.0,6.5
+37,IBM,Web Developer,C++,6.0,7.0
+38,Capgemini,Backend Developer,SQL,6.0,7.5
+39,Deloitte,Tester,Web,6.0,8.0
+40,TCS,Software Developer,Java,6.0,3.5
+41,Infosys,Data Analyst,Python,6.0,4.0
+42,Wipro,Web Developer,C++,6.0,4.5
+43,Accenture,Backend Developer,SQL,6.0,5.0
+44,TechMahindra,Tester,Web,6.0,5.5
+45,HCL,Software Developer,Java,6.0,6.0
+46,Cognizant,Data Analyst,Python,6.0,6.5
+47,IBM,Web Developer,C++,6.0,7.0
+48,Capgemini,Backend Developer,SQL,6.0,7.5
+49,Deloitte,Tester,Web,6.0,8.0
+50,TCS,Software Developer,Java,6.0,3.5
+51,Infosys,Data Analyst,Python,6.0,4.0
+52,Wipro,Web Developer,C++,6.0,4.5
+53,Accenture,Backend Developer,SQL,6.0,5.0
+54,TechMahindra,Tester,Web,6.0,5.5
+55,HCL,Software Developer,Java,6.0,6.0
+56,Cognizant,Data Analyst,Python,6.0,6.5
+57,IBM,Web Developer,C++,6.0,7.0
+58,Capgemini,Backend Developer,SQL,6.0,7.5
+59,Deloitte,Tester,Web,6.0,8.0
+60,TCS,Software Developer,Java,6.0,3.5
+61,Infosys,Data Analyst,Python,6.0,4.0
+62,Wipro,Web Developer,C++,6.0,4.5
+63,Accenture,Backend Developer,SQL,6.0,5.0
+64,TechMahindra,Tester,Web,6.0,5.5
+65,HCL,Software Developer,Java,6.0,6.0
+66,Cognizant,Data Analyst,Python,6.0,6.5
+67,IBM,Web Developer,C++,6.0,7.0
+68,Capgemini,Backend Developer,SQL,6.0,7.5
+69,Deloitte,Tester,Web,6.0,8.0
+70,TCS,Software Developer,Java,6.0,3.5
+71,Infosys,Data Analyst,Python,6.0,4.0
+72,Wipro,Web Developer,C++,6.0,4.5
+73,Accenture,Backend Developer,SQL,6.0,5.0
+74,TechMahindra,Tester,Web,6.0,5.5
+75,HCL,Software Developer,Java,6.0,6.0
+76,Cognizant,Data Analyst,Python,6.0,6.5
+77,IBM,Web Developer,C++,6.0,7.0
+78,Capgemini,Backend Developer,SQL,6.0,7.5
+79,Deloitte,Tester,Web,6.0,8.0
+80,TCS,Software Developer,Java,6.0,3.5
+81,Infosys,Data Analyst,Python,6.0,4.0
+82,Wipro,Web Developer,C++,6.0,4.5
+83,Accenture,Backend Developer,SQL,6.0,5.0
+84,TechMahindra,Tester,Web,6.0,5.5
+85,HCL,Software Developer,Java,6.0,6.0
+86,Cognizant,Data Analyst,Python,6.0,6.5
+87,IBM,Web Developer,C++,6.0,7.0
+88,Capgemini,Backend Developer,SQL,6.0,7.5
+89,Deloitte,Tester,Web,6.0,8.0
+90,TCS,Software Developer,Java,6.0,3.5
+91,Infosys,Data Analyst,Python,6.0,4.0
+92,Wipro,Web Developer,C++,6.0,4.5
+93,Accenture,Backend Developer,SQL,6.0,5.0
+94,TechMahindra,Tester,Web,6.0,5.5
+95,HCL,Software Developer,Java,6.0,6.0
+96,Cognizant,Data Analyst,Python,6.0,6.5
+97,IBM,Web Developer,C++,6.0,7.0
+98,Capgemini,Backend Developer,SQL,6.0,7.5
+99,Deloitte,Tester,Web,6.0,8.0
+100,TCS,Software Developer,Java,6.0,3.5
